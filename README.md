@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Traian Sfarghiu!
 
 🎓 I'm a student at **UBB - Faculty of Mathematics and Computer Science**  
 🐧 Arch Linux + i3 + Neovim = ❤️  
