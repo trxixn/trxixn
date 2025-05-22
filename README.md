@@ -22,7 +22,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trxixn&show_icons=true&theme=radical" alt="my github stats" width="420"/>
+  /* <img src="https://github-readme-stats.vercel.app/api?username=trxixn&show_icons=true&theme=radical" alt="my github stats" width="420"/> */
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trxixn&layout=compact&theme=radical" alt="languages" height="165">
 </p>
 
