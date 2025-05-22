@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Traian Sfarghiu!
 
 🎓 I'm a student at **UBB - Faculty of Mathematics and Computer Science**  
-🐧 Using Arch Linux with i3 and Neovim for a fast, minimal dev environment.
+🐧 Using Arch Linux with i3 and Neovim for a fast, minimal dev environment   
 💻 Passionate about systems programming, algorithms, and clean code  
 🚀 Currently learning C++, Python, Bash scripting, and Linux internals  
 🛠️ Exploring backend development, DevOps, and open source contributions  
