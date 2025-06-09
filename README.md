@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Traian Sfarghiu
+# 👋 Hi, I'm Traian 
 
 🎓 Student at **UBB – Faculty of Mathematics and Computer Science**  
 🐧 Linux enthusiast building a minimalist, efficient dev workflow on **Arch Linux** with **i3** and **Neovim**  
