@@ -23,7 +23,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=trxixn&show_icons=true&theme=apprentice" alt="GitHub Stats" width="420"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trxixn&layout=compact&theme=apprentice" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trxixn&layout=compact&theme=apprentice" alt="Top Languages" height="200">
 </p>
 
 ---
