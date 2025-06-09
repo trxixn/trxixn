@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Traian Sfarghiu!
+# 👋 Hi, I'm Traian Sfarghiu
 
-🎓 I'm a student at **UBB - Faculty of Mathematics and Computer Science**  
-🐧 Using Arch Linux with i3 and Neovim for a fast, minimal dev environment   
-💻 Passionate about systems programming, algorithms, and clean code  
-🚀 Currently learning C++, Python, Bash scripting, and Linux internals  
-🛠️ Exploring backend development, DevOps, and open source contributions  
+🎓 Student at **UBB – Faculty of Mathematics and Computer Science**  
+🐧 Linux enthusiast building a minimalist, efficient dev workflow on **Arch Linux** with **i3** and **Neovim**  
+💻 Passionate about **systems programming**, **operating systems**, and writing clean, robust code  
+🔧 Currently exploring **C++**, **Python**, **Bash scripting**, and the internals of **Unix-like systems**  
+🚀 Interested in **backend development**, **DevOps**, and contributing to **open source**
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Technologies & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -22,20 +22,19 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trxixn&show_icons=true&theme=radical" alt="my github stats" width="420"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trxixn&layout=compact&theme=radical" alt="languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=trxixn&show_icons=true&theme=radical" alt="GitHub Stats" width="420"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trxixn&layout=compact&theme=radical" alt="Top Languages" height="165">
 </p>
 
 ---
 
-## 🔭 Future goals
+## 🎯 Goals for 2025
 
-- Contribute to open source
-- Master backend development & system design
-- Explore Rust and Go
-- Build useful personal projects
+- 🔨 Build low-level projects: memory allocators, shell, minimal kernel components  
+- 📦 Contribute to open source tools in the systems or devtools space  
+- 🧠 Deepen understanding of OS concepts (scheduling, memory, I/O, filesystems)  
+- 🌍 Learn Rust and Go to expand systems and backend capabilities  
+- ⚙️ Deploy and scale backend services with modern DevOps tools  
+- 🧩 Build my first neovim plugin
 
 ---
-
-> “Stay curious, keep building.”
-
