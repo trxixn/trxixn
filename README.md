@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Traian 
 
 🎓 Student at **UBB – Faculty of Mathematics and Computer Science**  
-🐧 Linux enthusiast building a minimalist, efficient dev workflow on **Arch Linux** with **i3** and **Neovim**  
 💻 Passionate about **systems programming**, **operating systems**, and writing clean, robust code  
-🔧 Currently exploring **C++**, **Python**, **Bash scripting**, and the internals of **Unix-like systems**  
+🔧 Currently exploring **C++**, **Java**, **Bash**, and the internals of **Unix-like systems**  
 🚀 Interested in **backend development**, **DevOps**, and contributing to **open source**
 
 ---
@@ -11,11 +10,10 @@
 ## 🛠️ Technologies & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-89e051?style=flat-square&logo=gnubash&logoColor=black)
 ![Lua](https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 
 ---
 
