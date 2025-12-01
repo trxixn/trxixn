@@ -19,15 +19,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trxixn&show_icons=true&theme=apprentice" alt="GitHub Stats" width="420" height="175"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trxixn&layout=compact&theme=apprentice" alt="Top Languages" height="175">
-</p>
-
----
-
 ## 🎯 Goals for 2025
 
 - 🔨 Build low-level projects: memory allocators, shell, minimal kernel components  
